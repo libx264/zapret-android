@@ -1,1 +1,1 @@
-cp -r shortcuts ~/.shortcuts
+cp -r shortcuts/* ~/.shortcuts
